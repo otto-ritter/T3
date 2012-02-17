@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_file_handler.html#a96debfd77742c34c7024f12b1c4e6eee" title="Reinitializes this Object. All attributes will be reset to default." alt="" coords="329,5,452,35"/>
+<area shape="rect" id="node7" href="$class_main_exception.html#acc59bc8ebc1a6a4a73ee9436fd3cdcd6" title="Returnss the message of this Exception." alt="" coords="297,59,484,88"/>
+<area shape="rect" id="node9" href="$class_controll_server.html#a4024744e78dfe8d6c097161229319ea6" title="Signal to view with title and message." alt="" coords="296,112,485,141"/>
+<area shape="rect" id="node11" href="$class_file_handler.html#ac9e601b0287dfb2756f4c4226157c4f3" title="Setter for the input file. After setting the path, creates a file handler and checks the file..." alt="" coords="305,165,476,195"/>
+<area shape="rect" id="node5" href="$class_file_handler.html#a4ecca129b8a5a86097f699bb325e658b" title="The internal method to reset or initialize the Object." alt="" coords="577,5,689,35"/>
+<area shape="rect" id="node13" href="$class_error_position.html#a24079597b20ec8abf9df1bbd6ea70be2" title="This static method makes the given position printable." alt="" coords="535,165,732,195"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_controll_server.html#ad7648f053e1af065101a539ee8846e46" title="With this method it is possible to add a friend to the model." alt="" coords="221,13,392,43"/>
+<area shape="rect" id="node9" href="$class_personen_list.html#a53f9dea2aa85ba7e0e670568dbb47ed6" title="Loads the friends list." alt="" coords="225,69,388,99"/>
+<area shape="rect" id="node5" href="$class_main_window.html#aa0d7fae97efd45f4b65ede322ec3dab0" title="When the addfriend button is being pressed, open the ManagingFriendDialog to add a new friend..." alt="" coords="441,8,737,37"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor for the Gui." alt="" coords="788,5,967,35"/>
+<area shape="rect" id="node11" href="$class_personen_list.html#aac16ce1baca7dfdc38d26a37d59a6c1b" title="Sets the application directory." alt="" coords="503,71,676,100"/>
+<area shape="rect" id="node13" href="$class_controll_server.html#a1a145bf66b241d671c04fbf202b9e57b" title="set the application directory." alt="" coords="787,83,968,112"/>
+<area shape="rect" id="node15" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Entry point to the application." alt="" coords="1016,83,1067,112"/>
+</map>

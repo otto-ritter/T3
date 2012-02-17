@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_controll_server.html#a0db50abb897bb5e4b433471273adfde9" title="Encrypt the given file with selected encryption algorithm and the public key from friend..." alt="" coords="161,5,335,35"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a7b847e345bd9ae31311a4a3b55993ada" title="Starts the encryption by calling doEnCrypt from ControllServer." alt="" coords="384,5,675,35"/>
+</map>

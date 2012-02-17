@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_controll_server.html#a2211308a472c2d13c3908fbeac8385b7" title="Read the keyfile for dectyption." alt="" coords="188,5,369,35"/>
+<area shape="rect" id="node5" href="$class_controll_server.html#adb208060bfd8ea47826e588a7870d2aa" title="Decrypt the file that was selected by the user." alt="" coords="419,5,595,35"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a1ff65146e7ef9ade8b5f5400e5a7d3d8" title="Starts the decryption by calling doDeCrypt from ControllServer." alt="" coords="643,5,933,35"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor for the Gui." alt="" coords="983,5,1161,35"/>
+</map>

@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{cpp}
+cplusplus.com.
+\newblock {Reference of the C++ Language Library}.
+\newblock http://www.cplusplus.com/reference/.
+
+\bibitem{qt}
+{Nokia Corporation}.
+\newblock {Qt 4.7}.
+\newblock http://doc.qt.nokia.com/4.7/index.html.
+
+\bibitem{openssl}
+{The OpenSSL Project}.
+\newblock Openssl.
+\newblock http://www.openssl.org/.
+
+\end{thebibliography}

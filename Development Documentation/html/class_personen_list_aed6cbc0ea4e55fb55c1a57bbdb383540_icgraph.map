@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_controll_server.html#acda8a6903c06bdcb447a9203844cff00" title="Change a public key from an existing friend." alt="" coords="229,5,400,35"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a28b3487e0bc4aeec7403040f743e9e03" title="Open the ManagingFriendDialog to edit the selected friend in the friendlist." alt="" coords="449,5,745,35"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor for the Gui." alt="" coords="796,5,975,35"/>
+</map>

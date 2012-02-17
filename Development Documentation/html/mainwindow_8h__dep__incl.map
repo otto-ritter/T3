@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$controllserver_8h.html" title="Source/Controller/controllserver.h" alt="" coords="424,83,640,112"/>
+<area shape="rect" id="node18" href="$mainwindow_8cpp.html" title="Source/Gui/mainwindow.cpp" alt="" coords="69,83,256,112"/>
+<area shape="rect" id="node20" href="$main_8cpp.html" title="Source/main.cpp" alt="" coords="280,83,400,112"/>
+<area shape="rect" id="node5" href="$controllserver_8cpp.html" title="Source/Controller/controllserver.cpp" alt="" coords="351,160,580,189"/>
+<area shape="rect" id="node8" href="$managingfrienddialog_8h.html" title="Source/Gui/managingfrienddialog.h" alt="" coords="12,160,236,189"/>
+<area shape="rect" id="node13" href="$settings_8h.html" title="Source/Gui/settings.h" alt="" coords="604,160,751,189"/>
+<area shape="rect" id="node11" href="$managingfrienddialog_8cpp.html" title="Source/Gui/managingfrienddialog.cpp" alt="" coords="5,237,243,267"/>
+<area shape="rect" id="node16" href="$settings_8cpp.html" title="Source/Gui/settings.cpp" alt="" coords="596,237,759,267"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_controll_server.html#a2f39979eddc0c921b2702b331a89a46b" title="Setter for filepath." alt="" coords="224,59,467,88"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a1ff65146e7ef9ade8b5f5400e5a7d3d8" title="Starts the decryption by calling doDeCrypt from ControllServer." alt="" coords="517,5,808,35"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a7b847e345bd9ae31311a4a3b55993ada" title="Starts the encryption by calling doEnCrypt from ControllServer." alt="" coords="517,59,808,88"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a9294223cb1cec1959e2af702b2dfc2a4" title="Called when the user selects a file for encryption or decryption." alt="" coords="515,112,811,141"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor for the Gui." alt="" coords="860,59,1039,88"/>
+</map>

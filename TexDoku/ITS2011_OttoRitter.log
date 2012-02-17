@@ -1,0 +1,199 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.2.13)  13 FEB 2012 11:30
+entering extended mode
+ %&-line parsing enabled.
+**ITS2011_OttoRitter.tex
+(./ITS2011_OttoRitter.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, ngerman, german, german-x-2009-06-19, ngerman-x-2009-06-19, loaded.
+
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texmf-texlive/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/ngermanb.ldf
+Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 92.
+))
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/a4wide.sty
+Package: a4wide 1994/08/30
+
+(/usr/share/texmf-texlive/tex/latex/ntgclass/a4.sty
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(./ITS2011_OttoRitter.aux)
+\openout1 = `ITS2011_OttoRitter.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+ (/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+) (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count90
+\scratchdimen=\dimen106
+\scratchbox=\box26
+\nofMPsegments=\count91
+\nofMParguments=\count92
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count93
+\MPscratchDim=\dimen107
+\MPnumerator=\count94
+\everyMPtoPDFconversion=\toks21
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./ITS2011_OttoRitter.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `ITS2011_OttoRitter.toc'.
+
+ [1]
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 39.
+ [1] [2]
+<Klassendiagramm.png, id=21, 524.71031pt x 371.13657pt>
+File: Klassendiagramm.png Graphic file (type png)
+
+<use Klassendiagramm.png> [3 <./Klassendiagramm.png (PNG copy)>] [4] [5]
+<Seq_Verschluesseln.png, id=32, 478.78876pt x 689.57625pt>
+File: Seq_Verschluesseln.png Graphic file (type png)
+
+<use Seq_Verschluesseln.png> [6 <./Seq_Verschluesseln.png (PNG copy)>]
+<Seq_Entschluesseln.png, id=36, 478.78876pt x 689.57625pt>
+File: Seq_Entschluesseln.png Graphic file (type png)
+
+<use Seq_Entschluesseln.png> [7 <./Seq_Entschluesseln.png (PNG copy)>] [8]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 104.
+
+<MainWindow.png, id=43, 210.7875pt x 301.125pt>
+File: MainWindow.png Graphic file (type png)
+ <use MainWindow.png>
+<SettingsWindow.png, id=45, 372.64218pt x 213.04594pt>
+File: SettingsWindow.png Graphic file (type png)
+
+<use SettingsWindow.png> [9 <./MainWindow.png>] [10 <./SettingsWindow.png>]
+<AddFriendWindow.png, id=54, 342.5297pt x 129.48375pt>
+File: AddFriendWindow.png Graphic file (type png)
+
+<use AddFriendWindow.png>
+<EditFriendWindow.png, id=55, 342.5297pt x 129.48375pt>
+File: EditFriendWindow.png Graphic file (type png)
+
+<use EditFriendWindow.png> [11 <./AddFriendWindow.png> <./EditFriendWindow.png>
+] (./ITS2011_OttoRitter.bbl [12]
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/12 cplusplus.com.  Re-fe-rence of the C++ Lan-gua-ge Li-bra-ry.
+ []
+
+) [13] (./ITS2011_OttoRitter.aux) ) 
+Here is how much of TeX's memory you used:
+ 2091 strings out of 495021
+ 27296 string characters out of 1181035
+ 85491 words of memory out of 3000000
+ 5279 multiletter control sequences out of 15000+50000
+ 9117 words of font info for 32 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 26i,8n,30p,1419b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmbx8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texliv
+e/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmr8.pfb>
+Output written on ITS2011_OttoRitter.pdf (15 pages, 319392 bytes).
+PDF statistics:
+ 91 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
