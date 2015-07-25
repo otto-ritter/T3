@@ -21,13 +21,13 @@
 #include <QFile>
 #include <QByteArray>
 #include <QString>
-#include <Q_INT64>
+//#include <QINT64>
 #include <QDebug>
 #include <QFileInfo>
 #include <Helper/errorposition.h>
 #include <Helper/mainexception.h>
 #include <Helper/userexception.h>
-#include <Q_INT64>
+
 
 /**
      @class FileHandler

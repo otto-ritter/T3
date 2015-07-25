@@ -1,4 +1,4 @@
-#include <QtGui/QApplication>
+#include <QApplication>
 #include <QSplashScreen>
 #include "Gui/mainwindow.h"
 #include "Helper/globalDefines.h"

@@ -49,7 +49,7 @@ void ManagingFriendDialog::on_readKeyButton_clicked(){
     QFileDialog* filedlg = new QFileDialog(this,"Please select keyfile");
     filedlg->setFileMode (QFileDialog::ExistingFile);
     filedlg->setViewMode (QFileDialog::Detail);
-    filedlg->setFilter("KEY (*.key);; All files (*.*)");
+    filedlg->setNameFilter("KEY (*.key);; All files (*.*)");
     filedlg->setDirectory (ControllServer::instanceOf().getAppPath());
     // Wenn neue Datei ausgesucht wurde dann einlesen.
     if(filedlg->exec()){
