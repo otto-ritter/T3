@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/" lang="deutsch">
+        <file>Gui/Icons/check.png</file>
+        <file>Gui/Icons/loeschen.png</file>
+        <file>Gui/Icons/edit.png</file>
+        <file>Gui/Icons/close.png</file>
+        <file>Gui/Icons/follow.png</file>
+        <file>Gui/Icons/help.png</file>
+        <file>Gui/Icons/info.png</file>
+        <file>Gui/Icons/key.png</file>
+        <file>Gui/Icons/open.png</file>
+        <file>Gui/Icons/warning.png</file>
+        <file>Gui/Icons/add.png</file>
+        <file>splash.png</file>
+        <file>Gui/Icons/winIcon.png</file>
+        <file>Gui/Icons/openfolder.png</file>
+    </qresource>
+</RCC>
