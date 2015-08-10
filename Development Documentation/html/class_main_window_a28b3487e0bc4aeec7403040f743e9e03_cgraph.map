@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_managing_friend_dialog.html#ab1b76e8204b1ecfe94bbc9cd2b8a066e" title="Processed when the user edits a person." alt="" coords="352,5,560,35"/>
-<area shape="rect" id="node5" href="$class_controll_server.html#acda8a6903c06bdcb447a9203844cff00" title="Change a public key from an existing friend." alt="" coords="371,59,541,88"/>
-<area shape="rect" id="node9" href="$class_managing_friend_dialog.html#a152f6cebecb2175ab535391281fed713" title="Returns the key that is stored in this dialog." alt="" coords="356,112,556,141"/>
-<area shape="rect" id="node11" href="$class_controll_server.html#ac862000e6ea1d683bcb2fc8d08edadd0" title="static method to get the instance of this object." alt="" coords="608,189,784,219"/>
-<area shape="rect" id="node13" href="$class_main_window.html#ad019488c1ebd268fa3a7f5bf7d7d9b67" title="Loads and reloads the friends list from the model." alt="" coords="357,216,555,245"/>
-<area shape="rect" id="node7" href="$class_personen_list.html#aed6cbc0ea4e55fb55c1a57bbdb383540" title="Sets the public key of the person with the given name." alt="" coords="609,59,783,88"/>
-</map>

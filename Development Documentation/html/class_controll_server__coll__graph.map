@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_file_handler.html" title="Handle source and destination file to read an write to filesystem." alt="" coords="5,5,93,35"/>
-<area shape="rect" id="node4" href="$class_personen_list.html" title="Model for the friendlist." alt="" coords="117,5,216,35"/>
-<area shape="rect" id="node6" href="$class_crypt.html" title="The base class for all used encryption and decryption classes." alt="" coords="244,5,297,35"/>
-<area shape="rect" id="node8" href="$class_r_s_a_key_pair.html" title="Model for the RSA&#45;Keypair." alt="" coords="356,5,452,35"/>
-</map>

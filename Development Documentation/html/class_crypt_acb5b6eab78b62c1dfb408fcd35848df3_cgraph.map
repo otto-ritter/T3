@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_crypt.html#a2687999c46e9b02dd8fb47e69c5986f7" title="If the entered key is too short this method can enlarge it." alt="" coords="204,32,316,61"/>
-<area shape="rect" id="node5" href="$class_sha_api.html#a6392cc65da24d131f2f370c8a4ebad1c" title="Returns the binary hashed data." alt="" coords="367,5,505,35"/>
-<area shape="rect" id="node7" href="$class_sha_api.html#afb40fd71ff85075b377809f67d7b8685" title="Using SHA512 algorithm to hash." alt="" coords="379,59,493,88"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node21" href="$global_defines_8h.html" title="Helper/globalDefines.h" alt="" coords="703,469,857,499"/>
-<area shape="rect" id="node23" href="$sha__api_8h.html" title="Functions/sha_api.h" alt="" coords="1128,83,1267,112"/>
-<area shape="rect" id="node32" href="$errorlogger_8h.html" title="Helper/errorlogger.h" alt="" coords="579,315,715,344"/>
-<area shape="rect" id="node47" href="$errorposition_8h.html" title="Helper/errorposition.h" alt="" coords="93,392,240,421"/>
-<area shape="rect" id="node52" href="$mainexception_8h.html" title="Helper/mainexception.h" alt="" coords="423,237,580,267"/>
-<area shape="rect" id="node58" href="$filehandler_8h.html" title="Helper/filehandler.h" alt="" coords="515,83,648,112"/>
-<area shape="rect" id="node70" href="$userexception_8h.html" title="Helper/userexception.h" alt="" coords="435,160,589,189"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_controll_server.html#ad7648f053e1af065101a539ee8846e46" title="With this method it is possible to add a friend to the model." alt="" coords="373,5,544,35"/>
-<area shape="rect" id="node7" href="$class_managing_friend_dialog.html#a152f6cebecb2175ab535391281fed713" title="Returns the key that is stored in this dialog." alt="" coords="359,59,559,88"/>
-<area shape="rect" id="node9" href="$class_managing_friend_dialog.html#a5edf370615ad8c329cdf0aee3c8b4901" title="Returns the name of the person stored in this dialog." alt="" coords="353,112,564,141"/>
-<area shape="rect" id="node11" href="$class_controll_server.html#ac862000e6ea1d683bcb2fc8d08edadd0" title="static method to get the instance of this object." alt="" coords="613,189,789,219"/>
-<area shape="rect" id="node13" href="$class_main_window.html#ad019488c1ebd268fa3a7f5bf7d7d9b67" title="Loads and reloads the friends list from the model." alt="" coords="360,216,557,245"/>
-<area shape="rect" id="node5" href="$class_personen_list.html#a60b2f0a7434d70ff9c29f61b428440a2" title="Adds a person to the friends list." alt="" coords="617,5,785,35"/>
-</map>

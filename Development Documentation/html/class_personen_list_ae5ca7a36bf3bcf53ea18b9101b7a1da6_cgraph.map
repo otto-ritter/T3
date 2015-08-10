@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_personen_list.html#a2367f089dd8daef69f032bea207fcdb7" title="Saves the friends list." alt="" coords="245,51,408,80"/>
-<area shape="rect" id="node5" href="$class_error_position.html#a24079597b20ec8abf9df1bbd6ea70be2" title="This static method makes the given position printable." alt="" coords="457,5,655,35"/>
-<area shape="rect" id="node7" href="$class_error_logger.html#a0dc5cc0a4278c1842851e0be41512dd6" title="Returns the instance of this singleton." alt="" coords="476,64,636,93"/>
-<area shape="rect" id="node9" href="$class_error_logger.html#ae3cfe61388f42874c0ed1c87516831cf" title="Sets the message, location, type and write in Logfile." alt="" coords="485,129,627,159"/>
-</map>

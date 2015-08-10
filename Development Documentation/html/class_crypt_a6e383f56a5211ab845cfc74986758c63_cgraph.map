@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_crypt.html#acb5b6eab78b62c1dfb408fcd35848df3" title="Generate random string to use as random password or initial vector." alt="" coords="228,32,375,61"/>
-<area shape="rect" id="node11" href="$class_crypt.html#a4bdaf7767d47c98c07c384ad4219623f" title="Sets the key for encryption and decryption." alt="" coords="251,85,352,115"/>
-<area shape="rect" id="node5" href="$class_crypt.html#a2687999c46e9b02dd8fb47e69c5986f7" title="If the entered key is too short this method can enlarge it." alt="" coords="425,32,537,61"/>
-<area shape="rect" id="node7" href="$class_sha_api.html#a6392cc65da24d131f2f370c8a4ebad1c" title="Returns the binary hashed data." alt="" coords="588,5,727,35"/>
-<area shape="rect" id="node9" href="$class_sha_api.html#afb40fd71ff85075b377809f67d7b8685" title="Using SHA512 algorithm to hash." alt="" coords="600,59,715,88"/>
-</map>
